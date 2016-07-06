@@ -14,5 +14,5 @@ ofxHapPlayerのtest.
 
 ##note
 
-s
+
 
